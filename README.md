@@ -1,5 +1,5 @@
 # Simple_Model_Genetic_Kin_Recognition
-This repository contains all supplementary code for Scott &amp; Grafen (unpublished).
+This repository contains all supplementary code for Scott (unpublished).
 
 This repository contains: (i) code for generating data; (ii) saved data; (iii) code for generating figures (by loading and plotting the saved data).
 
